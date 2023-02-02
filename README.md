@@ -1,2 +1,2 @@
 # my-projects
-meus projeto 
+meus projetos
