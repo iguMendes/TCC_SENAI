@@ -6,7 +6,7 @@ primeiramente temos o arquivo 'BebidasFesta.php' que seria a tela principal do p
 depois da escolha, você é direcionado para uma tela de "preparação", ela apresenta um erro em php, isso é devido ao fato de não haver a porta do arduino,
 utilizamos a função (fopen) para acessar a porta do arduino, como não há uma porta, ele apresenta o erro.
 Após isso você verá uma tela com um QRCODE(ilustrativo) que te direcionaria para a tela inicial novamente, ou apenas clique no link abaixo do mesmo.
-Durante a execuçõa do código você passará pelo arquivo 'SegundaTela.php' é onde funciona a integração do arduino com o PHP.
+Durante a execução do código você passará pelo arquivo 'SegundaTela.php' é onde funciona a integração do arduino com o PHP.
 
 
 O arquivo 'arduinocode' é onde faz o arduino funcionar, contém comandos básicos da linguagem C, os arquivos em PHP trabalham em conjunto com o arquivo do arduino,
