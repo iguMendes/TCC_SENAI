@@ -1,0 +1,147 @@
+ .u-section-1 {
+  background-image: url("images/97897897.jpg");
+  background-color: black;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 714px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 455px;
+  min-height: 641px;
+  height: auto;
+  margin: 3px auto 60px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 0 6px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 0 auto;
+}
+
+.u-section-1 .u-image-1 {
+  width: 255px;
+  height: 143px;
+  margin: 0 -27px 0 auto;
+}
+
+.u-section-1 .u-image-2 {
+  width: 278px;
+  height: 162px;
+  margin: -143px auto 0 -38px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: -68px 66px 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  margin: -21px auto 0 56px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 98px auto 0;
+}
+
+.u-section-1 .u-image-3 {
+  width: 255px;
+  height: 143px;
+  margin: 0 -27px 0 auto;
+}
+
+.u-section-1 .u-image-4 {
+  width: 278px;
+  height: 162px;
+  margin: -153px auto 0 -31px;
+}
+
+.u-section-1 .u-text-5 {
+  margin: -59px 66px 0 auto;
+}
+
+.u-section-1 .u-text-6 {
+  margin: -21px auto 0 56px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: linear-gradient(to right, #db1313, #f1c50e);
+  margin: 90px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 589px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 144px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -144px;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 144px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 451px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 338px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 213px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+}
+
+.botao1{
+  margin-left: 70px;
+  color: black;
+ }
+
+ .botao2{
+    margin-left: 130px;
+    color: black;
+
+ }
+
+ .botao3{
+  margin-left: 70px;
+  color: black;
+
+}
+
+.botao4{
+color: black;
+margin-left: 130px;
+}
+
+.body{
+  background-color: black;
+}
