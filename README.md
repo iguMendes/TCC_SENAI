@@ -1,4 +1,4 @@
-projeto TCC
+
 os arquivos presentes consistem no projeto principal do TCC.
 A ideia do projeto é criar uma 'máquina de bebidas' automatizada utilizando php, arduino, html, css e javascript e os conhecimentos básicos em elétrica.
 
