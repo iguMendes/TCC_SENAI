@@ -9,5 +9,5 @@ Após isso você verá uma tela com um QRCODE(ilustrativo) que te direcionaria p
 Durante a execução do código você passará pelo arquivo 'SegundaTela.php' é onde funciona a integração do arduino com o PHP.
 
 
-O arquivo 'arduinocode' é onde faz o arduino funcionar, contém comandos básicos da linguagem C, os arquivos em PHP trabalham em conjunto com o arquivo do arduino,
+O arquivo 'arduinocode' é onde faz o arduino funcionar, contém comandos básicos da linguagem C++, os arquivos em PHP trabalham em conjunto com o arquivo do arduino,
 fazendo funcionar o projeto.
